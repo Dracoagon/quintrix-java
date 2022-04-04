@@ -1,1 +1,1 @@
-# quintrix-java
+# Drake Taylor - Quintrix JFS training material
