@@ -1,5 +1,9 @@
 package com.quintrix.jfs;
 
+/*
+ * A simple class to hold a username and password.
+ */
+
 public class LoginCredentials {
 
   private String username;
